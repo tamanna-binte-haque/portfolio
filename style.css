@@ -136,6 +136,9 @@ a:hover {
     margin-bottom: 2.5rem;
     text-align: center;
 }
+.section2-top {
+    margin-top: 50px;
+}
 /* Footer */
 .footer-sec {
     margin-top: 7%!important;
